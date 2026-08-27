@@ -44,3 +44,4 @@ ENTER
 STRING start
 ENTER
 STRING goto loop
+start "" "%USERPROFILE%\DESKTOP\script.bat"
