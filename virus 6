@@ -44,4 +44,7 @@ ENTER
 STRING start
 ENTER
 STRING goto loop
-start "" "%USERPROFILE%\DESKTOP\script.bat"
+ENTER
+CTRL SHIFT s
+DELAY 1000
+STRING %USERPROFILE%\Desktop\test.bat
